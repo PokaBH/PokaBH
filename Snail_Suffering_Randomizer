@@ -1,4 +1,4 @@
-print('''Alright yall so I heard you need something to to help occupy your time, same for me.
+'''Alright yall so I heard you need something to to help occupy your time, same for me.
 Hence I decided to practice python(a coding language) and work on a project to keep me busy during my free time at home and or school.
 I assume you are using this because you are becoming bored with your toy snail, and need some chance in your life.
 So here is the deal, i already wrote everything you are, will,and did see on screen.
@@ -6,7 +6,7 @@ Im just using a mix of randomizers and if/if else statements and print commands 
 Admittedly im new to this whole coding thing, fun fact this is my first coding project ever! Thats How this will be a learning experince for you and me
 Im not the most efficent, for instance im using a lot of repeated commands such as print, but over time this will be revised, but the good thing about a program so small is that there is little room for error bugs or glitches.
 This exists to assists yall on your war thunder journies so have fun with it")
-The following text will be an experimental very raw list  randomized options for choosing what to do and some features may be added or changed depending on requests, motovation by the creator, and other facotrs''')
+The following text will be an experimental very raw list  randomized options for choosing what to do and some features may be added or changed depending on requests, motovation by the creator, and other facotrs'''
 
 print('''___________________________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________
